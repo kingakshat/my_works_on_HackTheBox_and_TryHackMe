@@ -30,26 +30,26 @@ MACHINE_IP - 10.10.161.223
 
 > Clue 1 - Username: R1ckRul3s
 
-![alt text](image-7.png)
+![alt text](../statics/image-7.png)
 
-![alt text](image-8.png)
+![alt text](../statics/image-8.png)
 
-![alt text](image-9.png)
+![alt text](../statics/image-9.png)
 
-![alt text](image-10.png)
+![alt text](../statics/image-10.png)
 
-![alt text](image-11.png)
+![alt text](../statics/image-11.png)
 
-![alt text](image-13.png)
+![alt text](../statics/image-13.png)
 
-![alt text](image-14.png)
+![alt text](../statics/image-14.png)
 
-![alt text](image-15.png)
+![alt text](../statics/image-15.png)
 
-![alt text](image-16.png)
+![alt text](../statics/image-16.png)
 
-![alt text](image-17.png)
+![alt text](../statics/image-17.png)
 
-![alt text](image-18.png)
+![alt text](../statics/image-18.png)
 
-![alt text](image-12.png)
+![alt text](../statics/image-12.png)

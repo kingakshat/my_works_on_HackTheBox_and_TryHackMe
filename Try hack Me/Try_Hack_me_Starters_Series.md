@@ -30,25 +30,25 @@ MACHINE_IP - 10.10.161.223
 
 > Clue 1 - Username: R1ckRul3s
 
-![alt text](image-1.png)
+![alt text](../statics/image-1.png)
 
 3 - Try to find out more endpints of the webpage by - 
 
-![alt text](image-6.png)
+![alt text](../statics/image-6.png)
 
 
 4 - we found a robots.txt file with the content 
 > Clue 2 - Wubbalubbadubdub
 
-![alt text](image-2.png)
+![alt text](../statics/image-2.png)
 
 5 - we also see a login.php page, lest try loging in with the previous 2 Clues
 
-![alt text](image-3.png)
+![alt text](../statics/image-3.png)
 
 and we are in we see some some links pointing to denied.php (thats a decoy 😂) & a input filed for running some command 
 
-![alt text](image-4.png)
+![alt text](../statics/image-4.png)
 
 lest try -
 ```bash
@@ -73,7 +73,7 @@ drwxrwxr-x 2 ubuntu ubuntu 4096 Feb 10  2019 assets
 
 let's try to cat clue.txt & Sup3rS3cretPickl3Ingred.txt but the cat command is disables by Rick 
 
-![alt text](image-5.png)
+![alt text](../statics/image-5.png)
 
 let's get creatiuve and try tac 
 
