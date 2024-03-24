@@ -1,10 +1,4 @@
----
-title: akshat-shirsat
-date: '2024-01-01'
-spoiler: Python Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'kingakshat'
----
+
 
 <h1 align="left"><img src="" width="50px">
     <strong>
@@ -39,6 +33,8 @@ MACHINE_IP - 10.10.161.223
 ![alt text](image-1.png)
 
 3 - Try to find out more endpints of the webpage by - 
+
+![alt text](image-6.png)
 
 
 4 - we found a robots.txt file with the content 
